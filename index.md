@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/Anfeather/Anfeather.github.io/blob/main/chendong.jpg" class="floatpic" width="360" height="530">
+<img src="https://github.com/Anfeather/Anfeather.github.io/main/chendong.jpg" class="floatpic" width="360" height="530">
 
 
 
