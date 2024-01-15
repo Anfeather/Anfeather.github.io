@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# About Me
+# 个人简介
 
-<img src="https://github.com/Anfeather/Anfeather.github.io/blob/main/chendong.jpg" class="floatpic" width="360" height="530">
+<img src="https://anfeather.github.io/chendong.jpg" class="floatpic" width="360" height="530">
 
 
 
