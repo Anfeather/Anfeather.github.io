@@ -7,7 +7,9 @@ url: https://Anfeather.github.io
 # Owner/author information
 owner:
   name: 陈董
-  #avatar: https://anfeather.github.io/chendong.jpg
+
+  avatar: chendong.jpg
+
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: chendongcs@zju.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -36,7 +38,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 个人简介
+  - title: 简介
     url: /
   - title: 论文
     url: /publications/
