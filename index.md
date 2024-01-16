@@ -4,11 +4,9 @@ layout: page
 
 # &nbsp;
 
-<img src="https://anfeather.github.io/chendong.jpg" class="floatpic" width="360" height="530">
+<img src="https://anfeather.github.io/chendong.jpg" class="floatpic" width="340" height="500">
 
-
-
-陈董，男，河南人，1995年12月生，博士毕业于浙江大学计算机学院。
+陈董，男，河南人，1995年12月生，博士毕业于浙江大学计算机学院。AAAI、ICML、ACM MM、TMM等国际顶级人工智能会议、期刊审稿人。
 
 ## 教育背景
 
@@ -28,6 +26,10 @@ layout: page
 ## 获奖经历
 曾获国家奖学金 &nbsp; 人民一等奖学金 &nbsp;人民二等奖学金&nbsp;学业奖学金&nbsp;优秀研究生奖学金<br>
 电子科技大学优秀毕业生&nbsp;&nbsp;浙江大学优秀毕业生等。
+
+---
+
+
 <!-- - Internet of Everything (IoE)
 - Industrial Automation
 - Network and Cybersecurity
