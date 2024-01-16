@@ -8,11 +8,11 @@ title: Publications
 
 ## 会议论文
 
-- **Dong Chen**, Lingfei Wu, Siliang Tang, Xiao Yun, Bo Long, Yueting Zhuang. Robust Meta-learning with Sampling Noise and Label Noise via Eigen-Reptile. International Conference on Machine Learning (ICML). CCF-A.
+- **Dong Chen**, Lingfei Wu, Siliang Tang, Xiao Yun, Bo Long, Yueting Zhuang. Robust Meta-learning with Sampling Noise and Label Noise via Eigen-Reptile. International Conference on Machine Learning (ICML 2022). CCF-A.
 
-- **Dong Chen**, Yueting Zhuang, Shuo Zhang, Jinfeng Liu, Su Dong, Siliang Tang. Data Shunt: Collaboration of Small and Large Models for Lower Costs and Better Performance. Association for the Advancement of Artificial Intelligence (AAAI). CCF-A.
+-  **Dong Chen**, Siliang Tang, Zijin Shen, Guoming Wang, Jun Xiao, Yueting Zhuang. Carl Yang, FedAA: Using Non-sensitive Modalities to Improve Federated Learning while Preserving Image Privacy. ACM International Conference on Multimedia (ACM MM 2023). CCF-A.
 
--  **Dong Chen**, Siliang Tang, Zijin Shen, Guoming Wang, Jun Xiao, Yueting Zhuang. Carl Yang, FedAA: Using Non-sensitive Modalities to Improve Federated Learning while Preserving Image Privacy. ACM International Conference on Multimedia (ACM MM). CCF-A.
+- **Dong Chen**, Yueting Zhuang, Shuo Zhang, Jinfeng Liu, Su Dong, Siliang Tang. Data Shunt: Collaboration of Small and Large Models for Lower Costs and Better Performance. Association for the Advancement of Artificial Intelligence 2024 (AAAI 2024). CCF-A.
 
   <br>
 
