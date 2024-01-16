@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# 个人简介
+# 简介
 
 <img src="https://anfeather.github.io/chendong.jpg" class="floatpic" width="360" height="530">
 
@@ -36,10 +36,10 @@ My current research focuses on practical problems that artificial intelligence f
 <!-- <br>
 
 --- -->
-
+<!-- 
 ## 最新动态
 
-- **Dec 2023：**一篇论文被AAAI2024接收，加拿大见!
+- **Dec 2023：**一篇论文被AAAI2024接收，加拿大见! -->
 
 
 <!-- <br> -->
