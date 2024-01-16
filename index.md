@@ -2,19 +2,19 @@
 layout: page
 ---
 
-# 简介
+# 
 
 <img src="https://anfeather.github.io/chendong.jpg" class="floatpic" width="360" height="530">
 
 
 
-陈董，男，1995年12月生，博士毕业于浙江大学计算机学院。曾获国家奖学金、人民一等奖学金、人民二等奖学金、学业奖学金、优秀研究生奖学金、电子科技大学优秀毕业生、浙江大学优秀毕业生等。
+陈董，男，河南人，1995年12月生，博士毕业于浙江大学计算机学院。
 
 ## 教育背景
 
 
- 电子科技大学 &nbsp; 本科 &nbsp;&emsp; **2015 - 2019** <br>
- 浙江大学 &emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 博士  &nbsp;&emsp;   **2019 - 2024** <br>
+ 电子科技大学 &nbsp;&nbsp; 本科 &nbsp;&emsp; **2015 - 2019** <br>
+ 浙江大学 &nbsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 博士  &nbsp;&emsp;   **2019 - 2024** <br>
 
 
 <br>
@@ -25,6 +25,9 @@ layout: page
 
 跨媒体计算、大小模型协同、异常检测等人工智能方向。
 
+## 获奖经历
+曾获国家奖学金 &nbsp; 人民一等奖学金 &nbsp;人民二等奖学金&nbsp;学业奖学金&nbsp;优秀研究生奖学金<br>
+电子科技大学优秀毕业生&nbsp;&nbsp;浙江大学优秀毕业生等。
 <!-- - Internet of Everything (IoE)
 - Industrial Automation
 - Network and Cybersecurity
