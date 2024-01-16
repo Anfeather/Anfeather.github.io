@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://anfeather.github.io/chendong.jpg" class="floatpic" width="340" height="500">
 
-陈董，男，河南人，1995年12月生，博士毕业于浙江大学计算机学院。AAAI、ICML、ACM MM、TMM等国际顶级人工智能会议、期刊审稿人。
+陈董，男，河南人，1995年12月生，博士毕业于浙江大学计算机学院。AAAI、ICML、ACM MM、TMM、TNNLS等国际顶级人工智能会议、期刊审稿人。
 
 ## 教育背景
 
