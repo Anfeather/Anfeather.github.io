@@ -23,7 +23,7 @@ layout: page
 
 ## 研究兴趣
 
-跨媒体计算、大小模型协同、异常检测等。
+跨媒体计算、大小模型协同、异常检测等人工智能方向。
 
 <!-- - Internet of Everything (IoE)
 - Industrial Automation
