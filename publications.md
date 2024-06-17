@@ -24,7 +24,7 @@ title: Publications
 
 - **陈董**, 王曼, 戴光裕, 张硕, 汤斯亮, 庄越挺. 基于大小语言模型协同的社区调解优化方案. 软件导刊, CCF-T3.
 
--**Dong Chen**, Shuo Zhang, Yueting Zhuang, Siliang Tang, Qidong Liu, Hua Wang, Mingliang Xu. Improving Large Models with Small models: Lower Costs and Better Performance. (Under Review)
+- **Dong Chen**, Shuo Zhang, Yueting Zhuang, Siliang Tang, Qidong Liu, Hua Wang, Mingliang Xu. Improving Large Models with Small models: Lower Costs and Better Performance. (Under Review)
 
 - Boyu Dong, **Dong Chen**, Yu Wu, Siliang Tang, Yueting Zhuang. FADngs: Federated Learning for Anomaly Detection. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). CCF-B, 中科院一区.
   <br>
