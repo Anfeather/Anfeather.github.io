@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://anfeather.github.io/chendong.jpg" class="floatpic" width="340" height="500">
 
-陈董，男，河南人，博士毕业于浙江大学计算机学院。以第一作者身份在多个国际顶级人工智能会议及期刊发表论文，并担任AAAI、ICML、ACM MM、TMM、TNNLS等国际顶级人工智能会议、期刊审稿人。现为飞羽编程特约讲师。
+陈董，男，生于1995年12月，河南商丘人，2019年由电子科技大学保送至浙江大学计算机学院，现为郑州大学计算机与人工智能学院、软件学院讲师。
 
 
 ## &nbsp;
