@@ -4,8 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-<!-- Lastest Update: 28th Dec 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/) -->
-
 ### 会议论文
 
 - **Dong Chen**, Lingfei Wu, Siliang Tang, Xiao Yun, Bo Long, Yueting Zhuang. Robust Meta-learning with Sampling Noise and Label Noise via Eigen-Reptile. International Conference on Machine Learning (ICML 2022). CCF-A.
