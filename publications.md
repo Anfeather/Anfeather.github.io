@@ -14,7 +14,7 @@ title: Publications
 
 - Junhao Guo, XueFeng Shan, Guoming Wang, **Dong Chen**, Rongxing Lu, Siliang Tang. HEART: Heart Expert Assistant with ReTrieval-augmented. AAAI 2024 Spring Symposium Series Clinical FMs.
   <br>
-
+---
 ### 期刊论文
 - **Dong Chen**, Yueting Zhuang, Zijin Shen, Carl Yang, Guoming Wang, Siliang Tang, Yi Yang. Cross-modal Data Augmentation for Tasks of Different Modalities. IEEE Transactions on Multimedia (TMM). CCF-B, 中科院一区.
 
@@ -26,7 +26,11 @@ title: Publications
 
 - Boyu Dong, **Dong Chen**, Yu Wu, Siliang Tang, Yueting Zhuang. FADngs: Federated Learning for Anomaly Detection. IEEE Transactions on Neural Networks and Learning Systems (TNNLS). CCF-B, 中科院一区.
   <br>
-
+---
+### 在审论文
+- **Dong Chen**, Shuo Zhang, Yueting Zhuang, Siliang Tang, Qidong Liu, Hua Wang, Mingliang Xu. Improving Large Models with Small models: Lower Costs and Better Performance.
+  <br>
+---
 ### 已授权发明专利
 - CN107264662B 一种多功能爬壁机器人及其控制方法.
 
