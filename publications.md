@@ -26,7 +26,11 @@ title: Publications
   <br>
 ---
 ### 在审论文
-- **Dong Chen**, Shuo Zhang, Yueting Zhuang, Siliang Tang, Qidong Liu, Hua Wang, Mingliang Xu. Improving Large Models with Small models: Lower Costs and Better Performance.
+- Dong Chen, S Zhang, F Gao, Y Zhuang, S Tang, Q Liu, M Xu. Improving Large Models with Small models: Lower Costs and Better Performance.
+
+- **Dong Chen**, Shilin Zhang, Fei Gao, Yueting Zhuang, Siliang Tang, Qidong Liu, Mingliang Xu. Logic Distillation: Learning from Code Function by Function for Planning and Decision-making.
+
+
   <br>
 ---
 ### 已授权发明专利
